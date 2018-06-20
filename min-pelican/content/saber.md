@@ -11,7 +11,6 @@ Saber is the only one that allows you to score using the edge of the blade.
 
 Each point is over in a matter of seconds as the two combatants lunge at each other with swords honed in on making a hit tracked by an electronic system. Footwork on the competition strip is quick. And lunges are often accompanied by loud shouts in both men’s and women’s competitions.
 
-HERE IS A CHANGE
 
 [Learn More!](https://en.wikipedia.org/wiki/Sabre_(fencing))
 
