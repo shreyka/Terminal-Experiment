@@ -1,3 +1,8 @@
+Title: Saber Fencing
+Date: 2018-06-19 12:20
+Category: blades
+
+
 **SABER FENCING**
 
 Saber is the only one that allows you to score using the edge of the blade.
