@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Shreya Karpoor'
-SITENAME = 'Soccer'
+SITENAME = 'Fencing'
 SITEURL = ''
 
 PATH = 'content'
@@ -31,7 +31,10 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = 'min-pelican-theme'
+THEME = "./pelican-themes-master/pelican-bootstrap3"
+BOOTSTRAP_THEME = 'sandstone'
+PLUGINS = ['i18n_subsites', 'bootstrap-rst']
+PLUGIN_PATHS = ['./plugins']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
