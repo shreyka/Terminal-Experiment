@@ -36,5 +36,9 @@ BOOTSTRAP_THEME = 'sandstone'
 PLUGINS = ['i18n_subsites', 'bootstrap-rst']
 PLUGIN_PATHS = ['./plugins']
 
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
